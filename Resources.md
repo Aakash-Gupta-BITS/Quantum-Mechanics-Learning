@@ -5,7 +5,7 @@
   - I like many fields, including Math, Physics, CS, Finance (new thing for me), Philosophy (?) etc. and I don't know why. In physics, there are two beautiful theories that I know and want to learn: Relativity (Special and General Both) and Quantum mechanics. Why? To explore the secrets of universe and I don't see any reason why not to do that. It gives me a sense of power to predict how things around us work in the universe. Also, I like to play with linear algebra (from 3 Blue 1 Brown, Mathematics 2 and QiC course from college), Fourier Analysis (Competitive Programming, 3 Blue 1 Brown, Infinite Powers book, Waves etc) and I think quantum mechanics is filled with these tools. How nature works at small scale is a wonderful thing as it is very different from day to day experiences.
 
 
-# Resouces
+# Resources
 1. [Feynman Lectures Volume 3](https://www.feynmanlectures.caltech.edu/III_toc.html)
 2. [Principles of Quantum Mechanics](http://libgen.is/book/index.php?md5=16032106B848EED4B7639DE8DCDD688F)
 3. QM2 Course Books.
@@ -73,3 +73,23 @@ Here is the list of topics and resources I covered:
       - Degenercy of Eigenvalues.
       - Finding Eigenvalues and Eigenstates - summation equations and matrix formulation.
    8. [Hermitian operators in quantum mechanics](https://www.youtube.com/watch?v=XIgDUfyrLAY)
+      - Eigenvalues of Hermtitan Operator are real.
+      - Eigenstates of Hermitian Operator can be chosen to form an orthonormal basis.
+      - Gram Schmidt orthogonalisation.
+      - Matrix Formulation of Hermititan Operators.
+      - Matrix of Hermitian operator in Eigenbasis.
+   9. [Compatible Observables in Quantum Mechanics](https://www.youtube.com/watch?v=IhJvX4H7xkA)
+      - If $A$ and $B$ commute, then it is always possible to find a common set of Eigenstates of $A$ and $B$ that form a basis in state space.
+      - If both operators commute, then their Eigenstates are same.
+   10. [Projection Operators](https://www.youtube.com/watch?v=M9V4hhqyrKQ)
+      - Definition.
+      - Idempotent, Hermitian, Eigenvalues and Eigenstates.
+      - Complementary subspaces.
+   11. [Measurements in quantum mechanics || Concepts](https://www.youtube.com/watch?v=u1R3kRWh1ek)
+      - Fourth postulate of Quantum Mechanics.
+      - Statistical interpretation of probabilities.
+      - Writing state in Eigenbasis of Operator.
+      - Probability Distribution in discrete case.
+   12. [Measurements in quantum mechanics || Mathematical details](https://www.youtube.com/watch?v=odLwUXKY0Js)
+      - Assumptions - normalised, non degenerate and discrete.
+      - Most general formula by relaxing above conditions is given by $$\frac{dx}{dy}$$.
