@@ -92,4 +92,51 @@ Here is the list of topics and resources I covered:
       - Probability Distribution in discrete case.
    12. [Measurements in quantum mechanics || Mathematical details](https://www.youtube.com/watch?v=odLwUXKY0Js)
       - Assumptions - normalised, non degenerate and discrete.
-      - Most general formula by relaxing above conditions is given by $$\frac{dx}{dy}$$.
+      - Formula if state vector is not normalised.
+      - Formulas if we have degenrate case - Summation and projection operator.
+      - Formula for continuous case.
+      - Wavefunction and probability density.
+   13. [State collapse in quantum mechanics](https://www.youtube.com/watch?v=UaC-gLZ0Zvc)
+      - Fifth Postulate of Quantum Mechanics.
+      - Assumptions - Non degenerate and discrete.
+      - Formula if we have degenerate case.
+      - Formula for continuous case.
+      - Projection operator in continuous case.
+   14. [Expectation values in quantum mechanics](https://www.youtube.com/watch?v=rEm-Ejg5xek)
+      - Revision.
+      - Expectation value and formula for discrete case.
+      - Expectation formula for non normalised state vector.
+      - Difference between expected value and outcome of measurement.
+      - Expectation value when state is an Eigenstate.
+      - Mean Square Deviation and case when state is an Eigenstate.
+   15. [The Heisenberg uncertainty principle || Deep dive](https://www.youtube.com/watch?v=pfjQtyLBBHw)
+      - Writing a state in two different Eigenbasis of two operators.
+      - Equation of Uncertainity Principle.
+      - Graphical interpretation.
+      - Case when operators commute.
+      - Position and Momentum operators.
+   16. [The Heisenberg uncertainty principle || Proof](https://www.youtube.com/watch?v=fsC5Mhd7YUc)
+      - Revision.
+      - Proof.
+   17. [The Schrödinger equation](https://www.youtube.com/watch?v=CKpx9hkQ3HM)
+      - Sixth Postulate of Quantum Mechanics, meaning of Hamiltonian.
+      - Schrödinger equation is first order D.E. and it is deterministic.
+      - Time evolution of a system via equation and measurement.
+      - How to find Hamiltonian for a system.
+      - Conservative and Time dependent Hamiltonian.
+      - Solution of Schrodinger equation for conservtive system and _eigenvalue equation of the Hamiltonian_.
+      - Stationary States.
+      - Conservation of norm under time evolution.
+   18. [Unitary operators in quantum mechanics](https://www.youtube.com/watch?v=baIT6HaaYuQ)
+      - Definition.
+      - Basic Properties.
+      - Eigen values of unitary operators lie on a unit circle in complex plane.
+      - Eigenstates are orthonormal.
+      - Unitary Transformations conserve the scalar product.
+      - Are generalisations of orthogonal transformations from real to complex vector space.
+      - Unitary transformation of operator - Active and Passive Transformation.
+      - Unitary transformation of Hermitian operator is Hermititan.
+      - Unitary transformation of function of operator = function of unitary transformation of operator.
+      - Eigenvalues of an operator in unitary transformation stays the same.
+      - Relation between Hermitian and Unitary Operator.
+      - Infinitesimal Unitary Operator.
