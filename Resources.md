@@ -16,3 +16,4 @@
    - I know about this for a very long time from youtube and experiments don't align with classical predictions.
 2. Double Slit Experiment.
    - Covered in class XII and taught beautifully by N.V. Sir's video.
+   - [[Link](https://www.youtube.com/playlist?list=PLGA0CPGf7JbqKDJPbK7IAfBJzPYFx_9lW)] - Not the original link from where I studied but the teacher is same.
