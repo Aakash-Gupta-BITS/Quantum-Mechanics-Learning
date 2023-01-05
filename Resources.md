@@ -17,3 +17,7 @@
 2. Double Slit Experiment.
    - Covered in class XII and taught beautifully by N.V. Sir's video.
    - [[Link](https://www.youtube.com/playlist?list=PLGA0CPGf7JbqKDJPbK7IAfBJzPYFx_9lW)] - Not the original link from where I studied but the teacher is same.
+
+## What is covered
+1. [Mathematics and Postulates of Quantum Mechanics](https://github.com/Aakash-Gupta-BITS/Quantum-Mechanics-Learning/blob/main/1.%20Mathematics%20and%20Postulates%20of%20Quantum%20Mechanics.md) is intended to contain the postulates of quantum mechanics and the basic but rigorous mathematical toolkit that is required to make progress in our learning.
+2. [Specific Examples](https://github.com/Aakash-Gupta-BITS/Quantum-Mechanics-Learning/blob/main/2.%20Specific%20Examples.md) - Previous section covered the mathematical properties of various objects - vectors, operators, eigenvalues, commutators etc. This section serves as the common place for the specific examples of these objects which are frequently used in quantum mechanics, for example, position and momentum operators, pauli matrices, etc.
